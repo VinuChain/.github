@@ -1,8 +1,15 @@
 # VinuChain | VC
 Determinably Feeless, Lightning Fast, L1 EVM Network.
-- [Explorer 🌐](https://vinuscan.com)
-- [Website 🌐](https://vinuchain.org)
+
+## Website 🔗
+- [Website (VinuChain) 🌐](https://vinuchain.org)
 - [Website (Ecosystem) 🌐](https://vinu.org)
+
+## Explorer 🔗
+- [VinuScan 🌐](https://vinuscan.com)
+
+## Dev Docs 🔗
+- [Dev Docs 🌐](https://vita-inu.gitbook.io/vinuchain/)
 
 ## Socials 🔗
 Follow us!

@@ -25,4 +25,4 @@ Follow us!
 - [Github 💬](https://github.com/vinuchain)
 
 ## Contact Us 🔗
-- [hello@vitainu.org 📧](mailto:hello@vitainu.org)
+- [hello@vinuchain.org 📧](mailto:hello@vinuchain.org)

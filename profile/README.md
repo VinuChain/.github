@@ -6,6 +6,7 @@ Determinably Feeless, Lightning Fast, L1 EVM Network.
 - [Website (Ecosystem) 🌐](https://vinu.org)
 
 ## Explorer 🔗
+- [VinuExplorer 🌐](https://vinuexplorer.org)
 - [VinuScan 🌐](https://vinuscan.com)
 
 ## Docs 🔗
@@ -18,9 +19,7 @@ Follow us!
 - [Discord 💬](https://discord.gg/vinu)
 - [Telegram (Chat) 💬](https://t.me/vitainu)
 - [Telegram (News) 💬](https://t.me/vinu_news)
-- [Medium (Blog) 💬](https://medium.com/@vitainu)
-- [Reddit 💬](https://reddit.com/r/vitainu)
-- [Facebook 💬](https://facebook.com/vitainucoin)
+- [Medium (Blog) 💬](https://medium.com/vinuchain)
 - [Instagram 💬](https://instagram.com/vinuchaindao)
 - [Github 💬](https://github.com/vinuchain)
 

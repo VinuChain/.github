@@ -12,12 +12,17 @@ Determinably Feeless, Lightning Fast, L1 EVM Network.
 ## Docs 🔗
 - [Whitepaper 🌐](https://vinu.gitbook.io/vinuchain/whitepaper/whitepaper)
 - [Dev Docs 🌐](https://vinu.gitbook.io/vinuchain/)
+- [Token & Contract List 🌐](https://github.com/VinuChain/vinuchain-lists/)
+
+## Dapps 🔗
+- [VinuSwap 🌐](https://vinuswap.org/)
+- [VinuFinance 🌐](https://vinufinance.app/)
 
 ## Socials 🔗
 Follow us!
 - [Twitter 💬](https://twitter.com/vinuchain)
 - [Discord 💬](https://discord.gg/vinu)
-- [Telegram (Chat) 💬](https://t.me/vitainu)
+- [Telegram (Chat) 💬](https://t.me/vinuchain)
 - [Telegram (News) 💬](https://t.me/vinu_news)
 - [Medium (Blog) 💬](https://medium.com/vinuchain)
 - [Instagram 💬](https://instagram.com/vinuchaindao)

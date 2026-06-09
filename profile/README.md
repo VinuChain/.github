@@ -14,7 +14,7 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 - [VinuScan](https://vinuscan.com)
 - [Staking](https://stake.vinu.cash/)
 - [WanBridge](https://bridge.wanchain.org/#/?asset=VC&from=VinuChain)
-- [Token and contract list](https://github.com/VinuChain/vinuchain-lists)
+- [Token and contract list](https://github.com/VinuChain/Vinuchain-Lists)
 
 ## Network
 
@@ -42,11 +42,11 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 | Protocol | [Go-Vinu](https://github.com/VinuChain/go-vinu) | Patched Go implementation of the Ethereum protocol. |
 | Consensus | [Lachesis-Base](https://github.com/VinuChain/lachesis-base) | VinuChain fork of Fantom lachesis-base for DAG/BFT consensus. |
 | Docs | [VinuChain-Docs](https://github.com/VinuChain/VinuChain-Docs) | VinuChain documentation source. |
-| Tokens | [Vinuchain-Lists](https://github.com/VinuChain/vinuchain-lists) | Registry of verified smart contracts and tokens deployed on VinuChain. |
-| Contracts | [Vinu-Contracts](https://github.com/VinuChain/vinu-contracts) | VinuChain smart contract code. |
-| Explorer | [VinuExplorer-Frontend](https://github.com/VinuChain/vinuexplorer-frontend) | VinuExplorer frontend. |
-| DEX | [VinuSwap-Backend](https://github.com/VinuChain/VinuSwap-VinuChain) | VinuSwap on VinuChain. |
-| Lending | [VinuFinance-Backend](https://github.com/VinuChain/VinuFinance-VinuChain) | VinuChain port of VinuFinance. |
+| Tokens | [Vinuchain-Lists](https://github.com/VinuChain/Vinuchain-Lists) | Registry of verified smart contracts and tokens deployed on VinuChain. |
+| Contracts | [Vinu-Contracts](https://github.com/VinuChain/Vinu-Contracts) | VinuChain smart contract code. |
+| Explorer | [VinuExplorer-Frontend](https://github.com/VinuChain/VinuExplorer-Frontend) | VinuExplorer frontend. |
+| DEX | [VinuSwap-Backend](https://github.com/VinuChain/VinuSwap-Backend) | VinuSwap on VinuChain. |
+| Lending | [VinuFinance-Backend](https://github.com/VinuChain/VinuFinance-Backend) | VinuChain port of VinuFinance. |
 
 ## Ecosystem
 

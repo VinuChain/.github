@@ -39,15 +39,14 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 | Area | Repository | Purpose |
 | --- | --- | --- |
 | Protocol | [VinuChain](https://github.com/VinuChain/VinuChain) | VinuChain node/client implementation. |
-| Protocol | [go-vinu](https://github.com/VinuChain/go-vinu) | Patched Go implementation of the Ethereum protocol. |
-| Consensus | [lachesis-base](https://github.com/VinuChain/lachesis-base) | VinuChain fork of Fantom lachesis-base for DAG/BFT consensus. |
+| Protocol | [Go-Vinu](https://github.com/VinuChain/go-vinu) | Patched Go implementation of the Ethereum protocol. |
+| Consensus | [Lachesis-Base](https://github.com/VinuChain/lachesis-base) | VinuChain fork of Fantom lachesis-base for DAG/BFT consensus. |
 | Docs | [VinuChain-Docs](https://github.com/VinuChain/VinuChain-Docs) | VinuChain documentation source. |
-| Tokens | [vinuchain-lists](https://github.com/VinuChain/vinuchain-lists) | Registry of verified smart contracts and tokens deployed on VinuChain. |
-| Contracts | [vinu-contracts](https://github.com/VinuChain/vinu-contracts) | VinuChain smart contract code. |
-| Explorer | [vinuexplorer-frontend](https://github.com/VinuChain/vinuexplorer-frontend) | VinuExplorer frontend. |
-| DEX | [VinuSwap-VinuChain](https://github.com/VinuChain/VinuSwap-VinuChain) | VinuSwap on VinuChain. |
-| Lending | [VinuFinance-VinuChain](https://github.com/VinuChain/VinuFinance-VinuChain) | VinuChain port of VinuFinance. |
-| Lending | [VinuFinance-AWSM-Frontend](https://github.com/VinuChain/VinuFinance-AWSM-Frontend) | VinuFinance frontend. |
+| Tokens | [Vinuchain-Lists](https://github.com/VinuChain/vinuchain-lists) | Registry of verified smart contracts and tokens deployed on VinuChain. |
+| Contracts | [Vinu-Contracts](https://github.com/VinuChain/vinu-contracts) | VinuChain smart contract code. |
+| Explorer | [VinuExplorer-Frontend](https://github.com/VinuChain/vinuexplorer-frontend) | VinuExplorer frontend. |
+| DEX | [VinuSwap-Backend](https://github.com/VinuChain/VinuSwap-VinuChain) | VinuSwap on VinuChain. |
+| Lending | [VinuFinance-Backend](https://github.com/VinuChain/VinuFinance-VinuChain) | VinuChain port of VinuFinance. |
 
 ## Ecosystem
 

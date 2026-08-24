@@ -20,8 +20,8 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 
 | Network | Chain ID | Symbol | RPC | Explorer |
 | --- | ---: | --- | --- | --- |
-| Mainnet | 207 | VC | [rpc.vinuchain.org](https://rpc.vinuchain.org) or [vinuchain-rpc.com](https://vinuchain-rpc.com) | [vinuexplorer.org](https://vinuexplorer.org) |
-| Testnet | 206 | VC | [vinufoundation-rpc.com](https://vinufoundation-rpc.com) or [testnet-rpc.vinuchain.org](https://testnet-rpc.vinuchain.org) | [testnet.vinuexplorer.org](https://testnet.vinuexplorer.org) |
+| Mainnet | 207 | VC | [rpc.vinuchain.org](https://rpc.vinuchain.org) | [vinuexplorer.org](https://vinuexplorer.org) |
+| Testnet | 206 | VC | [vinufoundation-rpc.com](https://vinufoundation-rpc.com) | [testnet.vinuexplorer.org](https://testnet.vinuexplorer.org) |
 
 ## Build On VinuChain
 

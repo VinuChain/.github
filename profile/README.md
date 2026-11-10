@@ -11,7 +11,6 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 - [Developer docs](https://vinu.gitbook.io/vinuchain/)
 - [Whitepaper](https://vinu.gitbook.io/vinuchain/whitepaper/whitepaper)
 - [VinuExplorer](https://vinuexplorer.org)
-- [VinuScan](https://vinuscan.com)
 - [Staking](https://stake.vinu.cash/)
 - [WanBridge](https://bridge.wanchain.org/#/?asset=VC&from=VinuChain)
 - [Token and contract list](https://github.com/VinuChain/Vinuchain-Lists)
@@ -53,14 +52,13 @@ VC is the native gas and governance coin of VinuChain. Gas fees are accounted fo
 - [VinuSwap](https://vinuchain.vinuswap.org/) - trade and provide liquidity across VinuChain pairs.
 - [VinuFinance](https://vinufinance.app/) - lending and borrowing markets for VinuChain assets.
 - [VinuExplorer](https://vinuexplorer.org) - inspect blocks, transactions, contracts, validators, and account activity.
-- [VinuScan](https://vinuscan.com) - alternate explorer and staking interface.
 - [Vinu Foundation](https://www.vinufoundation.org/) - ecosystem stewardship, grants, and long-term support.
 - [VINU ecosystem](https://vinu.org) - the broader zero-fee VINU ecosystem.
 
 ## Socials
 
 - [X / Twitter](https://twitter.com/vinuchain)
-- [Discord](https://discord.gg/vinu)
+- [Discord](https://discord.gg/vinu-global-vc-vinu-904853001850728458)
 - [Telegram chat](https://t.me/vinuchain)
 - [Telegram news](https://t.me/vinu_news)
 - [Medium](https://medium.com/vinuchain)
